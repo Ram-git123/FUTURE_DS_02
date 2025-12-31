@@ -22,6 +22,10 @@ The objective of this project was to analyze social media ad campaign data (such
 
 
 
+
+
+
+
 🛠️ *Tools Used*
 
 *Power BI*: For data cleaning (Power Query), data modeling, and creating the interactive dashboard.
