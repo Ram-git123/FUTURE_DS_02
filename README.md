@@ -6,13 +6,13 @@
 📌 *Project Overview*
 The objective of this project was to analyze social media ad campaign data (such as Facebook and Instagram Ads) to evaluate marketing performance. The goal of the analysis was to transform raw campaign metrics into an interactive dashboard that helps businesses understand their Click-Through Rate (CTR), Return on Investment (ROI), and overall audience engagement to optimize future ad spend.
 
-                                                              📊 *Dashboard Preview*
+                                                          📊 *Dashboard Preview*
 
 *PERFORMANCE ANALYSIS* 
 
-<img width="700" height="400" alt="Screenshot 2025-12-21 192601" src="https://github.com/user-attachments/assets/e9baeb63-30ec-4a26-991b-ba7b9898cec7" />
+<img width="500" height="200" alt="Screenshot 2025-12-21 192601" src="https://github.com/user-attachments/assets/e9baeb63-30ec-4a26-991b-ba7b9898cec7" />
 
-<img width="700" height="400" alt="Screenshot 2025-12-21 224144" src="https://github.com/user-attachments/assets/e3e2cf35-7770-4e8c-9ef2-3ba00997f5c2" />
+<img width="500" height="200" alt="Screenshot 2025-12-21 224144" src="https://github.com/user-attachments/assets/e3e2cf35-7770-4e8c-9ef2-3ba00997f5c2" />
 
 *MARKETING ANALYSIS*
 
