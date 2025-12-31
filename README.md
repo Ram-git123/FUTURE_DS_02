@@ -1,12 +1,12 @@
 # FUTURE_DS_02
-"Interactive Power BI Dashboard and Data Analysis for Task 2 of the Future Interns Data Science Internship. Focused on Social Media Campaign Performance Tracker"
+*"Interactive Power BI Dashboard and Data Analysis for Task 2 of the Future Interns Data Science Internship. Focused on Social Media Campaign Performance Tracker"*
 
 *Project Description*: "As part of my Data Science internship at Future Interns, I was tasked with transforming a raw dataset into an actionable business intelligence tool. This project (Task 2) demonstrates the end-to-end process of data analysis, from cleaning and modeling to visual storytelling.
 
 📌 *Project Overview* :
 The objective of this project was to analyze social media ad campaign data (such as Facebook and Instagram Ads) to evaluate marketing performance. The goal of the analysis was to transform raw campaign metrics into an interactive dashboard that helps businesses understand their Click-Through Rate (CTR), Return on Investment (ROI), and overall audience engagement to optimize future ad spend.
 
-*📊 DASHBOARD OVERVIEW*
+                                              *📊 DASHBOARD OVERVIEW*
 
 *PERFORMANCE ANALYSIS* 
 
@@ -21,12 +21,7 @@ The objective of this project was to analyze social media ad campaign data (such
 <img width="600" height="350" alt="Screenshot 2025-12-21 224100" src="https://github.com/user-attachments/assets/8f258cc6-e9b7-42e8-b53e-b9aee9563fa1" />
 
 
-
-
-
-
-
-🛠️ *Tools Used*
+*🛠️ Tools Used*
 
 *Power BI*: For data cleaning (Power Query), data modeling, and creating the interactive dashboard.
 
@@ -34,7 +29,7 @@ The objective of this project was to analyze social media ad campaign data (such
 
 *DAX (Data Analysis Expressions)*: Used to calculate key metrics such as ROI, average CPC (Cost Per Click), and conversion rates.
 
-🗝️ *Key Insights*
+*🗝️ Key Insights*
 
 *Performance Trend*: Identified how engagement and reach fluctuated over the campaign period, pinpointing specific days or weeks with peak user interaction.
 
@@ -42,8 +37,7 @@ The objective of this project was to analyze social media ad campaign data (such
 
 *Strategic Recommendation*: Based on the data, it is recommended to reallocate budget towards the top-performing demographic segments (age, region, or device) and high-performing ad creatives to maximize future campaign efficiency.
 
-🚀 *How to View the Project*
+*🚀 How to View the Project*
 
 Download the FUTUREINTERNS_DS_2.pbix file from the folder.
-
 Open it using Power BI Desktop.
